@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+.main{
+	background-color:#f5f5f5;
+	padding:40px;
+}
+.sec{
+	background-color:white;
+	border:1px 1px 1px 1px;
+}
+.pclass{
+	text-align:right;
+}

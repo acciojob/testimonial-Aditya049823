@@ -5,6 +5,12 @@
 }
 .sec{
 	background-color:white;
+	margin-bottom:20px;
+	border:1px solid #ccc;
+	padding:20px;
+}
+.ptext{
+	margin:0;
 }
 .pclass{
 	text-align:right;
